@@ -31,4 +31,4 @@ src/
 
 ## Author
 
-Ashutosh
+Ashutosh Kumar
